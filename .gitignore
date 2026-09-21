@@ -1,0 +1,18 @@
+# Exécutables C
+*.o
+*.out
+C/TP1/intro
+
+# Exécutables OCaml
+*.cmo
+*.cmi
+*.cmx
+*.native
+
+# Éditeurs
+.vscode/
+*.swp
+
+# Système
+.DS_Store
+Thumbs.db
