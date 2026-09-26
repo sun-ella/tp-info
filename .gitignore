@@ -2,6 +2,8 @@
 *.o
 *.out
 C/TP1/intro
+C/TP1/ptitexos
+C/TP1/boucles
 
 # Exécutables OCaml
 *.cmo
