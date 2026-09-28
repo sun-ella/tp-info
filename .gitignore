@@ -1,9 +1,11 @@
+
 # Exécutables C
 *.o
 *.out
 C/TP1/intro
 C/TP1/ptitexos
 C/TP1/boucles
+C/TP1/tableaux
 
 # Exécutables OCaml
 *.cmo
