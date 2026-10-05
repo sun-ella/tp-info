@@ -1,22 +1,3 @@
-
-# Exécutables C
-*.o
-*.ou
-
-#TP1
-C/TP1/intro
-C/TP1/ptitexos
-C/TP1/boucles
-
-#TP2
-C/TP2/tab
-C/TP2/complexe
-C/TP2/main
-
-#TP4
-C/TP4/main
-C/TP4/tableaux
-C/TP4/test
 # Exécutables OCaml
 *.cmo
 *.cmi
